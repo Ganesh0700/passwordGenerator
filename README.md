@@ -26,7 +26,7 @@ A simple and interactive password generator built using **HTML**, **CSS**, and *
 
 ## 📸 Live Demo
 
-🔗 [Live Demo](https://yourusername.github.io/password-generator)
+🔗 [Live Demo](https://password-generator-three-sooty-40.vercel.app/)
 
 ---
 
@@ -36,4 +36,4 @@ To use this project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone  https://github.com/Ganesh0700/passwordGenerator.git
